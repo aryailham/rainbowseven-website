@@ -3,7 +3,7 @@
 This is my school project in Human Computer Interaction Laboratory subject.<br>This is a group project that consists of 4 people.<br>The role of our group is 1 designer, 1 designer and coder, 2 coder.
 
 ## Links to This Project
-https://lgenesius.github.io/rainbowseven-website/
+https://aryailham.github.io/rainbowseven-website/
 
 ## The Requirements
 <ol>
@@ -25,13 +25,7 @@ https://lgenesius.github.io/rainbowseven-website/
 <a href="Blueprint_home.jpg">Click here to see the blueprint of home<a>
 
 ## Descriptions
-This project made on June 12, 2020 during semester 4 in university.<br><br>
-My role in this project is coder. I coded the Home Page, Operator Page (Consists of Saviour page and Protector page), and Quarantine Page.
-<ul>
-<li>For the Home page, I used HTML, CSS and Javascript. Javascript used in the image slider in Home page.</li>
-<li>For the Saviour page and Protector page, I used HTML, CSS and Javascript. Javascript used in the operator detail that when you click the one of the displayed operators image, it will reveal the detail information of the operator.</li>
- <li>For the Quarantine Page, I used HTML and CSS.</li>
-</ul>
+This project made on June 12, 2020 during semester 4 in university.
 
 ## Technologies
 ▸ HTML<br>
