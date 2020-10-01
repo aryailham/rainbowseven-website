@@ -1,4 +1,4 @@
-# Rainbow Seven Siege - School Project
+# Rainbow Seven Siege - School Project test
 <p align="center"><img src="Image/logo.PNG"></p>
 This is my school project in Human Computer Interaction Laboratory subject.<br>This is a group project that consists of 4 people.<br>The role of our group is 1 designer, 1 designer and coder, 2 coder.
 
